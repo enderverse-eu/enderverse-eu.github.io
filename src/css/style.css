@@ -23,3 +23,12 @@
 .button-gr {
     text-align: center;
 }
+#image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#image-container>img {
+    height: 30vh;
+    vertical-align: bottom;
+}
